@@ -1,0 +1,6 @@
+img {width: 10cm;     height: 5cm;}
+
+p {text-align: justify;color:white;}
+body {background: url(kocsik.jpg);background-attachment: fixed; background-size: cover; background-repeat: no-repeat;}
+.card-body {background-color:sandybrown;}
+
